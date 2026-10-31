@@ -3,8 +3,8 @@
 
 - Nombre: Giovanni Miranda
 - Email de la cuenta ChatGPT: (el que uses para aplicar — no poner aquí)
-- Usuario GitHub: (pendiente, tras conectar GitHub)
-- URL del repo: (pendiente, tras crear `enlaces-wa` en GitHub)
+- Usuario GitHub: Giovanniedu
+- URL del repo: https://github.com/Giovanniedu/enlaces-wa
 - Rol: Primary maintainer (autor y mantenedor principal)
 
 ## Por qué califica el proyecto (borrador, 500 caracteres)
